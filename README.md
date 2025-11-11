@@ -38,11 +38,10 @@ APIキー確認:
 
 - クイックスタートガイド: QUICKSTART.md
 - 詳細仕様書: personality_chat_system_specification.md
-- 出会い系チャットシステム仕様書: docs/chat_system_specification.md
 
 ## 開発フェーズ
 
-- Phase 0: 環境構築完了 ✓
+- Phase 0: 環境構築完了
 - Phase 1: データ収集・RAG構築（1週間）
 - Phase 2: チャット機能実装（1週間）
 - Phase 3: コメント提案実装（1-2週間）
